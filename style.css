@@ -5,7 +5,7 @@
 *{
     font-family: "Dancing Script", cursive;
 
-    background-color: rgb(102, 87, 117);
+    /* background-color: rgb(102, 87, 117); */
     margin: 0px;
     padding: 0px;
     font-size: 20px;
@@ -53,6 +53,40 @@
     background-color: blue;
     margin:20px;
 }
+
+
+/* border properties */
+
+#center{
+    background-color: red;
+    height: 600px;
+    width: 700px;
+}
+
+#border{
+    height: 50%;
+    width: 50%;
+    border-radius: 50%;
+    margin: 25%;
+}
+
+
+/* image propertes */
+
+#imageP{
+    text-align: center;
+    align-content: center;
+    height: 500px;
+    width: 500px;
+    border: 5px solid black;
+    background-image: url(https://next-images.123rf.com/index/_next/image/?url=https://assets-cdn.123rf.com/index/static/assets/top-section-bg.jpeg&w=3840&q=75);
+    /* background-size: 100% 100%; */
+    background-size: 100px;
+    background-size: cover;
+}
+
+
+
 
 
 
