@@ -1,0 +1,58 @@
+
+
+
+
+*{
+    font-family: "Dancing Script", cursive;
+
+    background-color: rgb(102, 87, 117);
+    margin: 0px;
+    padding: 0px;
+    font-size: 20px;
+}
+
+#mainH{
+    background-color: #fff;
+}
+
+.mainC{
+    background-color: rgb(103, 103, 188);
+}
+
+#textP{
+    color:royalblue;
+    text-align: justify;
+}
+#line{
+    font-size: 26px;
+    font-weight: bold;
+    font-weight: 900;
+    color: red;
+    text-decoration: black underline;
+}
+
+/* //////box model///////////// */
+
+#box{
+    box-sizing: border-box;
+    width: 500px; /*know the px*/
+    height: 150px;
+    background-color: aqua;
+    margin-inline: 20px;
+}
+
+#eg1{
+    height: 500px;
+    width: 500px;
+    background-color: red;
+}
+
+#eg2{
+    height: 50vh;
+    width: 50vh;
+    background-color: blue;
+    margin:20px;
+}
+
+
+
