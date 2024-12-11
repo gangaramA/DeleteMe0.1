@@ -1,0 +1,14 @@
+#div1{
+    align-content: center;
+    height: 500px;
+    width: 500px;
+    border: 5px solid black;
+}
+
+#div2{
+    text-align: center;/*used to center a text horizontall*/
+    align-content: center;/*used to center a text vertically*/
+    height: 250px;
+    width: 250px;
+    border: 4px solid black;
+}
