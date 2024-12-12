@@ -1,0 +1,7 @@
+text-align=center //align content horezontally
+align-content=center // align content vertically
+box-sizing-border box //for padding
+
+
+psition-relative //takes position according to i dont know
+position-absolute //takes position accordingto its parent

@@ -1,0 +1,56 @@
+.display01{
+    display: inline-block;
+    margin: 30px;
+    width: 500px;
+    height: 200px;
+    border: 2px solid blueviolet;
+    /* text-align: justify; */
+    text-align: center;
+    align-content: center;
+
+}
+
+.display02{
+    display: inline-block;
+    text-align: center;
+    align-content: center;
+    width: 500px;
+    height: 200px;
+    border: 2px solid blueviolet;
+}
+
+#demo{
+    position: relative;
+    display: inline-block;
+    text-align: center;
+    align-content: center;
+    width: 500px;
+    height: 200px;
+    border: 2px solid blueviolet;
+    top: 20px;
+}
+
+#Icon{
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    border: 3px solid rgb(11, 177, 11);
+    border-radius: 50%;
+    text-align: center;
+    align-content: center;
+    position: fixed;
+    bottom: 50px;
+    right: 50px;
+}
+
+#childDiv{
+    position: relative;
+    height: 20px;
+    width: 20px;
+    border: 3px solid goldenrod;
+    top: 20px;
+    left: 20px;
+}
+
+
+
